@@ -15,5 +15,5 @@ This project analyzes the Titanic passenger dataset to uncover survival patterns
 
 ### Ideal Passenger Profiles
 - **Cluster 2:** Male, 1st class, age 17–32, from Southampton, no siblings.
-- **Cluster 4:** Female, 2nd class, age 17–32, from Cherbourg, no siblings.
+- **Cluster 4:** Female, 2nd class, age 17–32, from Cherbourg, no siblings
 
