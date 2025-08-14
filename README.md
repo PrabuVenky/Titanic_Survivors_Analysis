@@ -1,3 +1,5 @@
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Tableau-blue?style=for-the-badge&logo=tableau)
+
 # Titanic Survival Analysis & Clustering
 
 ## 📌 Overview
